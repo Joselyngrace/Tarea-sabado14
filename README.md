@@ -10,3 +10,5 @@ Objetivos específicos:
 2- Con los datos obtenidos de hoteles de las 3 fuentes escogidas, dividirlas en categorías según su calidad para una posterior comparación.
 3- Comparar precios de hoteles en las 3 fuentes, según mismo nivel de calidad.
 4- Determinar que fuente ofrece mejores precios en relación a la calidad que ofrece cada hotel.
+
+Espero aprender a trabajar con una base de datos y lograr analizar de manera correcta los datos.
